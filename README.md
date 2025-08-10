@@ -20,3 +20,7 @@ Temperature in Celsius
 Humidity percentage
 Wind speed in m/s
 Handles API requests and responses seamlessly
+
+
+#output:
+![Image](https://github.com/user-attachments/assets/17e1737c-b9c0-493f-947c-a5a722e1bff4)
